@@ -1,0 +1,18 @@
+<resources>
+  <string name="app_name">ListviewDemo</string>
+  <string-array name="fruits">
+
+    <item>सफरचंद</item>
+    <item>जर्दाळू</item>
+    <item>केळे</item>
+    <item>जांभुळ</item>
+    <item>चिक्कु</item>
+    <item>सिताफळ</item>
+    <item>खजूर</item>
+    <item>अंजीर</item>
+    <item>पेरू</item>
+    <item>फणस</item>
+    <item>अंबा</item>
+    <item>पपई</item>
+  </string-array>
+</resources>
